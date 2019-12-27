@@ -10,7 +10,7 @@ class Footer extends React.Component {
     render(){
         const {islight}=this.props;
         return <div style={islight ? styles.footerLight : styles.footerDark}> 
-            版权所有©Dogguang
+            版权所有©new
             </div>
     }
 }
