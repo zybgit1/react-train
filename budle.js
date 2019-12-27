@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "ce87becb9c1a49448617";
+/******/ 	var hotCurrentHash = "0e7b058fb11b0c7595d4";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -2842,7 +2842,7 @@ exports.push([module.i, "/*! normalize.css v8.0.1 | MIT License | github.com/nec
 
 exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Module
-exports.push([module.i, "\r\n.test{\r\n    text-align: center;\r\n    width: 50px;\r\n    height: 50px;\r\n    background-color: darkgray;\r\n}\r\n.flex{\r\n    display: flex;\r\n}\r\n.flex-nowrap{\r\n    flex-wrap: nowrap;\r\n}\r\n.flex-wrap{\r\n    flex-wrap: wrap;\r\n}\r\n.flex-space-around{\r\n    justify-content: space-around;\r\n}\r\n.flex-space-between{\r\n    justify-content: space-between;\r\n}\r\n.instructions-container{\r\n    margin: 100px 0;\r\n}\r\n.instruction{\r\n    min-width: 300px;\r\n}\r\n.player-input{\r\n    width: 210px;\r\n    height: 30px;\r\n    border-radius: 6px;\r\n    margin-right:10px ;\r\n    line-height: 30px;\r\n}\r\n.button-submit{\r\n    margin:10px 0px 10px 10px;\r\n}\r\n.button-buttle{\r\n    min-width: 200px;\r\n    min-height: 40px;\r\n    margin: 20px;\r\n    font-size: 20px;\r\n    border-radius: 5px;\r\n}\r\n.button-reset{\r\n    min-width: 200px;\r\n    min-height: 40px;\r\n    margin: 20px;\r\n    font-size: 20px;\r\n    border-radius: 5px;\r\n}\r\n.playerh2{\r\n    margin: 10px 0 10px 0;\r\n}\r\n.getPlayer{\r\n    width: 300px;\r\n    height: 60px;\r\n    line-height: 60px;\r\n    display: flex;\r\n    flex-wrap: nowrap;\r\n    justify-content: space-between;\r\n    background: rgba(0, 0, 0, 0.08)\r\n}\r\n.button-del{\r\n    border: none;\r\n    background: rgba(0, 0, 0, 0)\r\n}\r\n.lineheight{\r\n    line-height: 60px;\r\n}\r\n.disable-button{\r\n    opacity:0.5;\r\n }", ""]);
+exports.push([module.i, "\n.test{\n    text-align: center;\n    width: 50px;\n    height: 50px;\n    background-color: darkgray;\n}\n.flex{\n    display: flex;\n}\n.flex-nowrap{\n    flex-wrap: nowrap;\n}\n.flex-wrap{\n    flex-wrap: wrap;\n}\n.flex-space-around{\n    justify-content: space-around;\n}\n.flex-space-between{\n    justify-content: space-between;\n}\n.instructions-container{\n    margin: 100px 0;\n}\n.instruction{\n    min-width: 300px;\n}\n.player-input{\n    width: 210px;\n    height: 30px;\n    border-radius: 6px;\n    margin-right:10px ;\n    line-height: 30px;\n}\n.button-submit{\n    margin:10px 0px 10px 10px;\n}\n.button-buttle{\n    min-width: 200px;\n    min-height: 40px;\n    margin: 20px;\n    font-size: 20px;\n    border-radius: 5px;\n}\n.button-reset{\n    min-width: 200px;\n    min-height: 40px;\n    margin: 20px;\n    font-size: 20px;\n    border-radius: 5px;\n}\n.playerh2{\n    margin: 10px 0 10px 0;\n}\n.getPlayer{\n    width: 300px;\n    height: 60px;\n    line-height: 60px;\n    display: flex;\n    flex-wrap: nowrap;\n    justify-content: space-between;\n    background: rgba(0, 0, 0, 0.08)\n}\n.button-del{\n    border: none;\n    background: rgba(0, 0, 0, 0)\n}\n.lineheight{\n    line-height: 60px;\n}\n.disable-button{\n    opacity:0.5;\n }", ""]);
 
 
 /***/ }),
@@ -2856,7 +2856,7 @@ exports.push([module.i, "\r\n.test{\r\n    text-align: center;\r\n    width: 50p
 
 exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(false);
 // Module
-exports.push([module.i, ".text-center{\r\n    text-align: center;\r\n}\r\na:hover{\r\n    cursor: pointer;\r\n}\r\n\r\n.aDefaule{\r\n    text-decoration:none;\r\n    color:inherit;\r\n    font-size:18px;\r\n    font-weight: bold;\r\n}\r\n.aActive{\r\n    text-decoration:none;\r\n    color:red;\r\n    font-size:18px;\r\n    font-weight: bold;\r\n}", ""]);
+exports.push([module.i, ".text-center{\n    text-align: center;\n}\na:hover{\n    cursor: pointer;\n}\n\n.aDefaule{\n    text-decoration:none;\n    color:inherit;\n    font-size:18px;\n    font-weight: bold;\n}\n.aActive{\n    text-decoration:none;\n    color:red;\n    font-size:18px;\n    font-weight: bold;\n}", ""]);
 
 
 /***/ }),
@@ -21421,8 +21421,8 @@ var _default = Object(react_hot_loader_root__WEBPACK_IMPORTED_MODULE_7__["hot"])
     return;
   }
 
-  reactHotLoader.register(App, "App", "E:\\Code-workspace\\demo\\src\\components\\App.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\App.js");
+  reactHotLoader.register(App, "App", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\App.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\App.js");
 })();
 
 ;
@@ -22040,10 +22040,10 @@ var _default = Battle;
     return;
   }
 
-  reactHotLoader.register(BattleStart, "BattleStart", "E:\\Code-workspace\\demo\\src\\components\\Battle.js");
-  reactHotLoader.register(BattleEnd, "BattleEnd", "E:\\Code-workspace\\demo\\src\\components\\Battle.js");
-  reactHotLoader.register(Battle, "Battle", "E:\\Code-workspace\\demo\\src\\components\\Battle.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Battle.js");
+  reactHotLoader.register(BattleStart, "BattleStart", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Battle.js");
+  reactHotLoader.register(BattleEnd, "BattleEnd", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Battle.js");
+  reactHotLoader.register(Battle, "Battle", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Battle.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Battle.js");
 })();
 
 ;
@@ -22203,8 +22203,8 @@ var _default = Card;
     return;
   }
 
-  reactHotLoader.register(Card, "Card", "E:\\Code-workspace\\demo\\src\\components\\Card.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Card.js");
+  reactHotLoader.register(Card, "Card", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Card.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Card.js");
 })();
 
 ;
@@ -22329,8 +22329,8 @@ var _default = Content;
     return;
   }
 
-  reactHotLoader.register(Content, "Content", "E:\\Code-workspace\\demo\\src\\components\\Content.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Content.js");
+  reactHotLoader.register(Content, "Content", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Content.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Content.js");
 })();
 
 ;
@@ -22566,8 +22566,8 @@ var _default = ContentList;
     return;
   }
 
-  reactHotLoader.register(ContentList, "ContentList", "E:\\Code-workspace\\demo\\src\\components\\ContentList.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\ContentList.js");
+  reactHotLoader.register(ContentList, "ContentList", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\ContentList.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\ContentList.js");
 })();
 
 ;
@@ -22649,7 +22649,7 @@ function (_React$Component) {
       var islight = this.props.islight;
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         style: islight ? _styles__WEBPACK_IMPORTED_MODULE_10__["default"].footerLight : _styles__WEBPACK_IMPORTED_MODULE_10__["default"].footerDark
-      }, "\u7248\u6743\u6240\u6709\xA9Dogguang");
+      }, "\u7248\u6743\u6240\u6709\xA9new");
     }
   }, {
     key: "__reactstandin__regenerateByEval",
@@ -22674,8 +22674,8 @@ var _default = Footer;
     return;
   }
 
-  reactHotLoader.register(Footer, "Footer", "E:\\Code-workspace\\demo\\src\\components\\Footer.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Footer.js");
+  reactHotLoader.register(Footer, "Footer", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Footer.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Footer.js");
 })();
 
 ;
@@ -22803,8 +22803,8 @@ var _default = Header;
     return;
   }
 
-  reactHotLoader.register(Header, "Header", "E:\\Code-workspace\\demo\\src\\components\\Header.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Header.js");
+  reactHotLoader.register(Header, "Header", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Header.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Header.js");
 })();
 
 ;
@@ -22914,8 +22914,8 @@ var _default = Loading;
     return;
   }
 
-  reactHotLoader.register(Loading, "Loading", "E:\\Code-workspace\\demo\\src\\components\\Loading.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Loading.js");
+  reactHotLoader.register(Loading, "Loading", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Loading.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Loading.js");
 })();
 
 ;
@@ -23055,8 +23055,8 @@ var _default = Menu;
     return;
   }
 
-  reactHotLoader.register(Menu, "Menu", "E:\\Code-workspace\\demo\\src\\components\\Menu.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Menu.js");
+  reactHotLoader.register(Menu, "Menu", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Menu.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Menu.js");
 })();
 
 ;
@@ -23191,8 +23191,8 @@ var _default = Popular;
     return;
   }
 
-  reactHotLoader.register(Popular, "Popular", "E:\\Code-workspace\\demo\\src\\components\\Popular.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\Popular.js");
+  reactHotLoader.register(Popular, "Popular", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Popular.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\Popular.js");
 })();
 
 ;
@@ -23411,8 +23411,8 @@ var _default = styles;
     return;
   }
 
-  reactHotLoader.register(styles, "styles", "E:\\Code-workspace\\demo\\src\\components\\styles.js");
-  reactHotLoader.register(_default, "default", "E:\\Code-workspace\\demo\\src\\components\\styles.js");
+  reactHotLoader.register(styles, "styles", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\styles.js");
+  reactHotLoader.register(_default, "default", "C:\\Users\\dell\\Desktop\\react-train-master\\react-train-master\\src\\components\\styles.js");
 })();
 
 ;
